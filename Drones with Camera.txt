@@ -6,10 +6,9 @@ Multidirectional controls; motion-sensitive stabilizers; 1280 x 960 photo and 64
 
 那遠端要如何取得這兩個新的版本呢？
 
-<<<<<<< HEAD
 720p high-definition camera; on-board pressure sensors; 
 
 YUNEEC - Typhoon 4K Quadcopter - Black
-=======
+
 回到家後，準備洗澡看電視，好好休息一番
->>>>>>> 3dc808a5b642eef5040bd072884adea0f384290c
+
